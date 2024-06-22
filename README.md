@@ -43,36 +43,40 @@ Project Structure
 The project is organized as follows:
 
 AGI-Project/
-|-- README.md
-|-- LICENSE
-|-- requirements.txt
+README.md
+LICENSE
+requirements.txt
 
-|-- src/
-    |-- __init__.py
-    |-- main.py
-    |-- knowledge_representation/
-        |-- __init__.py
-        |-- ontology.py
-        |-- symbolic_reasoning.py
-    |-- machine_learning/
-        |-- __init__.py
-        |-- supervised_learning.py
-    |-- nlp/
-        |-- __init__.py
-        |-- language_understanding.py
-    |-- rag/
-        |-- __init__.py
-        |-- retriever.py
-        |-- generator.py
+src/
+ __init__.py
+main.py
 
-|-- tests/
-    |-- __init__.py
-    |-- test_ontology.py
-    |-- test_symbolic_reasoning.py
-    |-- test_supervised_learning.py
-    |-- test_language_understanding.py
-    |-- test_retriever.py
-    |-- test_generator.py
+knowledge_representation/
+__init__.py
+ontology.py
+symbolic_reasoning.py
+
+machine_learning/
+__init__.py
+supervised_learning.py
+
+nlp/
+__init__.py
+language_understanding.py
+
+rag/
+__init__.py
+retriever.py
+generator.py
+
+tests/
+__init__.py
+test_ontology.py
+test_symbolic_reasoning.py
+test_supervised_learning.py
+test_language_understanding.py
+test_retriever.py
+test_generator.py
 
 
 Running Tests
