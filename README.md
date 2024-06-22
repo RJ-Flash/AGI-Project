@@ -21,7 +21,7 @@ Step 1: Clone the Repository
 
 Open a terminal and run the following commands to clone the repository:
 
-git clone https://github.com/yourusername/AGI-Project.git
+git clone https://github.com/RJ-Flash/AGI-Project.git
 cd AGI-Project
 
 Step 2: Install the Required Dependencies
