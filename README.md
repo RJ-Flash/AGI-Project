@@ -46,6 +46,7 @@ AGI-Project/
 |-- README.md
 |-- LICENSE
 |-- requirements.txt
+
 |-- src/
     |-- __init__.py
     |-- main.py
@@ -63,6 +64,7 @@ AGI-Project/
         |-- __init__.py
         |-- retriever.py
         |-- generator.py
+
 |-- tests/
     |-- __init__.py
     |-- test_ontology.py
